@@ -19,7 +19,7 @@ h1{
   text-align: center;
 }
 
-a.centered {
+.centered a {
   padding-right: 10px;
   padding-left: 10px;
 }
