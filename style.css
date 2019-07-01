@@ -8,7 +8,7 @@ h1{
   text-align: center;
 }
 
-#featured-property {
+.centre {
   display: block;
   margin-left: auto;
   margin-right: auto;
